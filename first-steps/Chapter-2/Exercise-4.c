@@ -1,5 +1,5 @@
 /* 4) Write a program that reads an integer and then print it
-using the ?%f? operator. See the what happened. */
+using the '%f' operator. See the what happened. */
 #include <stdio.h>
 
 int main()
